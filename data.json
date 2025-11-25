@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "O JavaScript é uma linguagem da web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+  {
+    "nome": "Python",
+    "descricao": "O Python é uma linguagem de programação utilizado na ciência de dados e IA.",
+    "ano": 1991,
+    "link": "https://docs.python.org/pt-br/3/"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação orientada a objetos, popular para aplicações empresariais e Android.",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+  },
+  {
+    "nome": "C#",
+    "descricao": "C# (C Sharp) é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft.",
+    "ano": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+  },
+  {
+    "nome": "PHP",
+    "descricao": "PHP é uma linguagem de script popular de código aberto, especialmente adequada para o desenvolvimento web.",
+    "ano": 1995,
+    "link": "https://www.php.net/manual/pt_BR/"
+  },
+  {
+    "nome": "Go",
+    "descricao": "Go (ou Golang) é uma linguagem de programação de código aberto desenvolvida pelo Google, focada em simplicidade e eficiência.",
+    "ano": 2009,
+    "link": "https://go.dev/doc/"
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+  }
+]
