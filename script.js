@@ -33,7 +33,7 @@ function renderizarCards(dados){
         let article = document.createElement("article");
         article.innerHTML = `
             <h2>${dado.nome}</h2>
-            <p><strong>Ano de criação:</strong> ${dado.ano}</p>
+            <p>${dado.data_criacao}</p>
             <p>${dado.descricao}</p>               
             <a href="${dado.link}" target="_blank">Saiba mais</a>
          `
